@@ -1,9 +1,9 @@
-= Getting Started
+= Começando 
 
-This chapter will provide you with an overview of Starling and technologies it builds upon.
-We will first take a brief look at the history of _Flash_ and _AIR_ and how Starling came into being.
-Then, we will evaluate the tools and resources that will help you when working with Starling.
-At the end of the chapter, you will have your first "Hello World" example up and running.
+Este capítulo te dará uma visão geral do Starling e das tecnologias por trás dele.
+Nós começaremos com uma breve examinada na história do _Flash_, do  _AIR_ e de como o Starling ganhou forma.
+Então, nós avaliaremos as ferramentas e recursos que te ajudarão a trabalhar com o Starling.
+Ao final desse capítulo, você terá o seu primeiro exemplo "Olá mundo" pronto e funcionando.
 
 include::introduction.adoc[]
 
@@ -17,7 +17,7 @@ include::resources.adoc[]
 
 include::hello-world.adoc[]
 
-== Summary
+== Sumário
 
-You should now have a basic understanding of Starling and the tools and resources you will work with.
-It's time to jump into your first real game!
+Agora você deve ter um entendimento básico sobre o Starling, além das ferramentas e recursos que você trabalhará em conjunto.
+É hora de começar o seu primeiro jogo!
