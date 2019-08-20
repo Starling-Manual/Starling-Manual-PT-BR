@@ -1,4 +1,4 @@
-= O Manual Starling 
+= O Manual Starling
 Daniel Sperl <http://www.gamua.com[Gamua]>
 :revremark: Translated by Renan Muniz (https://renanmuniz.com)
 :doctype: book
@@ -6,7 +6,7 @@ Daniel Sperl <http://www.gamua.com[Gamua]>
 :sectnums:
 :sectanchors:
 :icons: font
-:source-highlighter: pygments
+:source-highlighter: rouge
 :imagesdir: ../img
 :experimental:
 :autofit-option:
@@ -19,7 +19,7 @@ A principal meta deste manual é fornecer uma extensa introdução ao  http://ww
 Starling é um motor de desenvolvimento multiplataforma para  _ActionScript 3_ que pode ser usado por todos os tipos de aplicações, com um foco especial para jogos 2D.
 
 ifdef::backend-html5[]
-TIP: Fique à vontade para baixar a link:manual.pdf[versão em PDF] deste documento 
+TIP: Fique à vontade para baixar a link:manual.pdf[versão em PDF] deste documento
 endif::[]
 
 Neste guia, você vai aprender:
